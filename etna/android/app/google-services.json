@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "786241683428",
+    "firebase_url": "https://etna-89a21-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "etna-89a21",
+    "storage_bucket": "etna-89a21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786241683428:android:ad47993133131ffbb911f1",
+        "android_client_info": {
+          "package_name": "android.etna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786241683428-si24ig0tqs4jqneu3du11l71etm8n35f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP8H8w9tnIhQekEg3BLThGOp60iSJXDkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786241683428-si24ig0tqs4jqneu3du11l71etm8n35f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "786241683428-2dlmulaove4s77uvghokmjtviu0m6vbg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "etna.2026"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
